@@ -1,6 +1,6 @@
 {
     "name": "RSEpDOXttk-Telegram",
-    "description": "Telegram uploaderbot with python",
+    "description": "Advanced Telegram uploaderbot with python",
     "logo": "https://wallpaperaccess.com/download/reverse-flash-148411",
     "keywords": [
       "telegram",
@@ -17,8 +17,8 @@
       }
     ],
     "repository": "https://github.com/ReverseClone/RSEpDOXttk",
-    "website": "https://github.com/ReverseClone/RSEpDOXttk/tree/heroku",
-    "success_url": "https://github.com/ReverseClone/RSEpDOXttk/blob/heroku/readme.md",
+    "website": "https://github.com/ReverseClone/RSEpDOXttk",
+    "success_url": "https://github.com/ReverseClone/RSEpDOXttk/readme.md",
     "stack": "container",
     "env": {
     "API_HASH": {
