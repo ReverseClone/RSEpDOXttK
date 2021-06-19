@@ -19,13 +19,13 @@ psycopg2-binary==2.8.5
 pyaes
 pyasn1==0.4.8
 pycparser==2.20
-qbittorrent-api==2020.7.7
+qbittorrent-api
 requests==2.24.0
 rsa==4.6
 six==1.15.0
 Telethon
 TgCrypto
-torrentool==1.1.0
+torrentool
 urllib3
 yarl==1.5.1
 youtube-dl
